@@ -1,5 +1,5 @@
-https://analyticsengine.s3.amazonaws.com
-https://affiliationjs.s3.amazonaws.com
-https://advertising-api-eu.amazon.com
-https://amazonaax.com
-https://amazonclix.com
+0.0.0.0 https://analyticsengine.s3.amazonaws.com
+0.0.0.0 https://affiliationjs.s3.amazonaws.com
+0.0.0.0 https://advertising-api-eu.amazon.com
+0.0.0.0 https://amazonaax.com
+0.0.0.0 https://amazonclix.com
