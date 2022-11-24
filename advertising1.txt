@@ -14,3 +14,4 @@ widgets.pinterest.com
 browser.sentry-cdn.com
 app.bugsnag.com
 api.bugsnag.com
+hicloud.com
