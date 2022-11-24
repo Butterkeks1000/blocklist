@@ -1,5 +1,16 @@
-0.0.0.0 https://analyticsengine.s3.amazonaws.com
-0.0.0.0 https://affiliationjs.s3.amazonaws.com
-0.0.0.0 https://advertising-api-eu.amazon.com
-0.0.0.0 https://amazonaax.com
-0.0.0.0 https://amazonclix.com
+analyticsengine.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
+advertising-api-eu.amazon.com
+amazonaax.com
+amazonclix.com
+samsung-com.112.2o7.net
+metrics1.data.hicloud.com
+metrics2.data.hicloud.com
+metrics5.data.hicloud.com 
+analytics.facebook.com
+advertising.twitter.com
+d.reddit.com
+widgets.pinterest.com
+browser.sentry-cdn.com
+app.bugsnag.com
+api.bugsnag.com
